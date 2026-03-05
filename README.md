@@ -9,4 +9,4 @@ I keep running into repeat errors and decided to document them since they're gen
 - Open .uproject file and rebuild it
 
 ## Error  : LNK1120: 1 unresolved externals
-This usually means that there's a declaration in the .h file but not definition in the .cpp file
+This usually means that there's a declaration in the .h file but no definition in the .cpp file
